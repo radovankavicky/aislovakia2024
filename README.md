@@ -65,3 +65,30 @@ AIslovakIA discussed the potential of transhumanism, the combination of AI and h
 
 AI's Importance and Risks: GapData Institute's Mission and Future Plans
 AIslovakIA discussed the importance of advanced technologies for social good and their potential risks. They highlighted the creation of the GapData Institute and their recent mission at the University of Cambridge. They also mentioned working on their first academic paper and an invitation to a top AI event in Dubai. AIslovakIA expressed gratitude for support received and ended the discussion by encouraging participants to stay updated on future activities.
+
+-----------------------------------------------------------
+Event potom (pýtať sa otázky a interakcia) bola možné aj cez sli.do, direct link (hashtag: #AIslovakIA na sli.do): https://app.sli.do/event/7zBkaVLsjXxPCvKPJ2gUNS
+
+resp. krátke linky (všetky):
+Zoom/call (treba zadať passcode: xAI): tinyurl.com/xAI-Passcode
+RSVP: tinyurl.com/xAI-AIslovakIA
+Slide-y (aj na stiahnutie): tinyurl.com/slides-xAI
+Na sli.do (integrované aj v slide-och... lol): tinyurl.com/xAI-slido
+No a na GitHube všetko dostupné bude tu: tinyurl.com/xAI-github 
++direct link: https://github.com/radovankavicky/aislovakia2024
+
+
+https://us06web.zoom.us/user/meeting/summary#/detail?meetingId=X609OKpfTxiYJoSQyR8omA%3D%3D&summaryId=mss_PW3cHue4RjWWP1QK1m_TrA
+
+https://docs.google.com/presentation/d/1W2z6JdlraL2DpRuMyziUq3lguQ91Et0RusdbVJ-v1pY/edit?usp=sharing
+
+https://analytics.slido.com/share/_SP9-lyYOe3Itdu2q2e2_3HY_8pkyfQrXI8p_f1cnl6YiMxciSP9_lySPlyMPlyNPlyZOe0ypAlqtb6zREa5cabydk_ZXIVXz83PydDNydDPzFyOOd0cwnwtsp498EImywZgYiValFL8ajfhhzIh_UUUhjSqdA
+
+Slido Event - aislovakia_explainableAI_futureML_2024_final 
+
+https://analytics.slido.com/share/_SP9-lyYOe3Itdu2q2e2_3HY_8pkyfQrXI8p_f1cnl6YiMxciSP9_lySPlyMPlyNPlyZOe0ypAlqtb6zREa5cabydk_ZXIVXz83PydDNydDPzFyOOd0cwnwtsp498EImywZgYiValFL8ajfhhzIh_UUUhjSqdA
+
+https://www.youtube.com/watch?v=oU57-hKIUn4&list=PL2AfQ495twI8l9cGimg3BTs54HJ8E7j-S&index=1
+
+https://us06web.zoom.us/user/meeting/summary#/detail?meetingId=X609OKpfTxiYJoSQyR8omA%3D%3D&summaryId=mss_PW3cHue4RjWWP1QK1m_TrA
+
